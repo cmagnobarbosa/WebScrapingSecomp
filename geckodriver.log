@@ -207,3 +207,244 @@ Sandbox: Unexpected EOF, op 0 flags 00 path /usr/share/locale/pt_BR/LC_MESSAGES/
 1536102801502	Marionette	INFO	Listening on port 40205
 1536102801513	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: http://legendas.tv/cache_js/js-combined.js, line 2: unreachable code after return statement
+1536608150893	geckodriver	INFO	geckodriver 0.21.0
+1536608150973	geckodriver	INFO	Listening on 127.0.0.1:40877
+1536608151775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mCvGmFecaH10"
+*** You are running in headless mode.
+1536608163212	Marionette	INFO	Listening on port 39633
+1536608163339	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536608163396	Marionette	DEBUG	[2147483649] Frame script loaded
+1536608163397	Marionette	DEBUG	[2147483649] Frame script registered
+1536608163424	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536608166422	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: http://legendas.tv/cache_js/js-combined.js, line 2: unreachable code after return statement
+1536608168331	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://legendas.tv/legendas/-/d/1
+1536608169269	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://legendas.tv/legendas/-/d/1
+1536608229032	geckodriver	INFO	geckodriver 0.21.0
+1536608229037	geckodriver	INFO	Listening on 127.0.0.1:49807
+1536608230039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hnW1cGvgfQV7"
+*** You are running in headless mode.
+1536608237025	Marionette	INFO	Listening on port 36469
+1536608237063	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536608237126	Marionette	DEBUG	[2147483649] Frame script loaded
+1536608237127	Marionette	DEBUG	[2147483649] Frame script registered
+1536608237149	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536608238546	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: http://legendas.tv/cache_js/js-combined.js, line 2: unreachable code after return statement
+1536608239828	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://legendas.tv/legendas/-/d/1
+1536608241725	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://legendas.tv/legendas/-/d/1
+1536608506142	geckodriver	INFO	geckodriver 0.21.0
+1536608506148	geckodriver	INFO	Listening on 127.0.0.1:56313
+1536608507148	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FIIgTLAv64Rl"
+*** You are running in headless mode.
+1536608514467	Marionette	INFO	Listening on port 35473
+1536608514569	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536608514621	Marionette	DEBUG	[2147483649] Frame script loaded
+1536608514622	Marionette	DEBUG	[2147483649] Frame script registered
+1536608514636	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536608516191	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: http://legendas.tv/cache_js/js-combined.js, line 2: unreachable code after return statement
+1536608518110	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://legendas.tv/legendas/-/d/1
+1536608519230	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://legendas.tv/legendas/-/d/1
+1536611205954	geckodriver	INFO	geckodriver 0.21.0
+1536611205959	geckodriver	INFO	Listening on 127.0.0.1:51937
+1536611206961	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2jvzYGofaOIz"
+*** You are running in headless mode.
+1536611213154	Marionette	INFO	Listening on port 45491
+1536611213184	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536611213260	Marionette	DEBUG	[2147483649] Frame script loaded
+1536611213261	Marionette	DEBUG	[2147483649] Frame script registered
+1536611213283	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536611214391	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: http://legendas.tv/cache_js/js-combined.js, line 2: unreachable code after return statement
+1536611215684	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://legendas.tv/
+1536611222970	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://legendas.tv/
+JavaScript warning: http://legendas.tv/cache_js/js-combined.js, line 2: unreachable code after return statement
+1536611246374	geckodriver	INFO	geckodriver 0.21.0
+1536611246382	geckodriver	INFO	Listening on 127.0.0.1:36699
+1536611247384	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oHMZPLUKTAEY"
+*** You are running in headless mode.
+1536611253423	Marionette	INFO	Listening on port 33707
+1536611253501	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536611253555	Marionette	DEBUG	[2147483649] Frame script loaded
+1536611253564	Marionette	DEBUG	[2147483649] Frame script registered
+1536611253579	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536611254321	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: http://legendas.tv/cache_js/js-combined.js, line 2: unreachable code after return statement
+1536611256631	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://legendas.tv/
+1536611263239	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://legendas.tv/
+JavaScript warning: http://legendas.tv/cache_js/js-combined.js, line 2: unreachable code after return statement
+1536612192814	geckodriver	INFO	geckodriver 0.21.0
+1536612192819	geckodriver	INFO	Listening on 127.0.0.1:47983
+1536612193823	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ue2pp6yoRroX"
+*** You are running in headless mode.
+1536612201790	Marionette	INFO	Listening on port 39875
+1536612201848	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536612201910	Marionette	DEBUG	[2147483649] Frame script loaded
+1536612201911	Marionette	DEBUG	[2147483649] Frame script registered
+1536612201925	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536612202764	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: http://legendas.tv/cache_js/js-combined.js, line 2: unreachable code after return statement
+1536612204061	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://legendas.tv/
+1536612211858	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://legendas.tv/
+JavaScript warning: http://legendas.tv/cache_js/js-combined.js, line 2: unreachable code after return statement
+JavaScript warning: http://legendas.tv/cache_js/js-combined.js, line 2: unreachable code after return statement
+1536615276602	geckodriver	INFO	geckodriver 0.21.0
+1536615276729	geckodriver	INFO	Listening on 127.0.0.1:58319
+1536615276737	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XXU6MSEIQmwm"
+*** You are running in headless mode.
+1536615284167	Marionette	INFO	Listening on port 43391
+1536615284261	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536615284314	Marionette	DEBUG	[2147483649] Frame script loaded
+1536615284315	Marionette	DEBUG	[2147483649] Frame script registered
+1536615284335	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536615284680	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: http://bvmf.bmfbovespa.com.br/WebResource.axd?d=extAwnow2kv0MRjuIn2Ck0ZK6hTxn8RjfCE5ciwBpVfhlzfMuZ8ob2cIzPCWn7eTlu20ikQ65qOcc2txFgatcBHY5XzvBZFXSiZ2XWe4hvQvzAid0d1Vt_N1Zd5XKRcxuQq6GkMR0Ve0bnXGRFGk6lsynipF12Z6PzsrigaxowbbpEAjuNdwbcnk0MVCL9cLihlbBXo40cChCf9UGo6me78LPR81&t=634530817221570672, line 1880: unreachable code after return statement
+1536615288505	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://bvmf.bmfbovespa.com.br/cias-listadas/empresas-listadas/ResumoEmpresaPrincipal.aspx?codigoCvm=19569&idioma=pt-br
+1536615294756	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://bvmf.bmfbovespa.com.br/cias-listadas/empresas-listadas/ResumoEmpresaPrincipal.aspx?codigoCvm=19569&idioma=pt-br
+1536615515782	geckodriver	INFO	geckodriver 0.21.0
+1536615515788	geckodriver	INFO	Listening on 127.0.0.1:37679
+1536615516789	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dM6kVXoynPLg"
+*** You are running in headless mode.
+1536615522992	Marionette	INFO	Listening on port 39747
+1536615523023	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536615523098	Marionette	DEBUG	[2147483649] Frame script loaded
+1536615523099	Marionette	DEBUG	[2147483649] Frame script registered
+1536615523117	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536615523654	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: http://bvmf.bmfbovespa.com.br/WebResource.axd?d=extAwnow2kv0MRjuIn2Ck0ZK6hTxn8RjfCE5ciwBpVfhlzfMuZ8ob2cIzPCWn7eTlu20ikQ65qOcc2txFgatcBHY5XzvBZFXSiZ2XWe4hvQvzAid0d1Vt_N1Zd5XKRcxuQq6GkMR0Ve0bnXGRFGk6lsynipF12Z6PzsrigaxowbbpEAjuNdwbcnk0MVCL9cLihlbBXo40cChCf9UGo6me78LPR81&t=634531012358788864, line 1880: unreachable code after return statement
+1536615526395	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://bvmf.bmfbovespa.com.br/cias-listadas/empresas-listadas/ResumoEmpresaPrincipal.aspx?codigoCvm=19569&idioma=pt-br
+1536615533725	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://bvmf.bmfbovespa.com.br/cias-listadas/empresas-listadas/ResumoEmpresaPrincipal.aspx?codigoCvm=19569&idioma=pt-br
+1536615919677	geckodriver	INFO	geckodriver 0.21.0
+1536615919683	geckodriver	INFO	Listening on 127.0.0.1:47101
+1536615920686	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lNPMckNMOUtK"
+*** You are running in headless mode.
+1536615927559	Marionette	INFO	Listening on port 44065
+1536615927612	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536615927686	Marionette	DEBUG	[2147483649] Frame script loaded
+1536615927692	Marionette	DEBUG	[2147483649] Frame script registered
+1536615927708	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536615928193	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536615933633	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://bvmf.bmfbovespa.com.br/pt-br/mercados/acoes/empresas/ExecutaAcaoConsultaInfoEmp.asp?CodCVM=23264&ViewDoc=0#a
+JavaScript error: http://bvmf.bmfbovespa.com.br/pt-br/mercados/acoes/empresas/ExecutaAcaoConsultaInfoEmp.asp?CodCVM=23264&ViewDoc=0#a, line 1: TypeError: parent.resizeFrame is not a function
+1536615937748	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://bvmf.bmfbovespa.com.br/pt-br/mercados/acoes/empresas/ExecutaAcaoConsultaInfoEmp.asp?CodCVM=23264&ViewDoc=0#a
+1536616432336	geckodriver	INFO	geckodriver 0.21.0
+1536616432485	geckodriver	INFO	Listening on 127.0.0.1:51875
+1536616433977	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VDGB9D5wDirs"
+*** You are running in headless mode.
+1536616471583	Marionette	INFO	Listening on port 38883
+1536616471707	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536616471763	Marionette	DEBUG	[2147483649] Frame script loaded
+1536616471764	Marionette	DEBUG	[2147483649] Frame script registered
+1536616472030	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536616479509	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536616810268	geckodriver	INFO	geckodriver 0.21.0
+1536616810273	geckodriver	INFO	Listening on 127.0.0.1:45497
+1536616811272	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.scesUZbmZkC2"
+*** You are running in headless mode.
+1536616819506	Marionette	INFO	Listening on port 37535
+1536616819594	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536616819645	Marionette	DEBUG	[2147483649] Frame script loaded
+1536616819647	Marionette	DEBUG	[2147483649] Frame script registered
+1536616819662	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536616819752	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536616828358	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://cotacoes.economia.uol.com.br/bolsas/index.html?indice=.BVSP
+1536616833957	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://cotacoes.economia.uol.com.br/bolsas/index.html?indice=.BVSP
+1536618107783	geckodriver	INFO	geckodriver 0.21.0
+1536618107908	geckodriver	INFO	Listening on 127.0.0.1:57875
+1536618108793	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Vcu9Oe5cMTuw"
+*** You are running in headless mode.
+1536618117732	Marionette	INFO	Listening on port 38749
+1536618117817	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536618117885	Marionette	DEBUG	[2147483649] Frame script loaded
+1536618117886	Marionette	DEBUG	[2147483649] Frame script registered
+1536618117901	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536618117987	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript error: http://barra.uol.com.br/b/uol.js, line 1: SyntaxError: expected expression, got '<'
+1536618123954	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://cotacoes.economia.uol.com.br/index.html
+1536618124200	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://cotacoes.economia.uol.com.br/index.html
+1536619144139	geckodriver	INFO	geckodriver 0.21.0
+1536619144145	geckodriver	INFO	Listening on 127.0.0.1:60347
+1536619145147	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UMXoKeAdirnw"
+*** You are running in headless mode.
+1536619152923	Marionette	INFO	Listening on port 34311
+1536619152971	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536619153034	Marionette	DEBUG	[2147483649] Frame script loaded
+1536619153036	Marionette	DEBUG	[2147483649] Frame script registered
+1536619153050	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536619156592	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536619163390	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://g1.globo.com/
+1536619165574	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1536619165577	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483659
+1536619166964	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1536619166967	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1536619167400	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483660
+1536619175256	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://g1.globo.com/
+1536619181716	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536619549054	geckodriver	INFO	geckodriver 0.21.0
+1536619549061	geckodriver	INFO	Listening on 127.0.0.1:54049
+1536619550063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pqSNzAsV5lah"
+
+(firefox:29747): Gtk-WARNING **: 19:45:54.841: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:29747): Gtk-WARNING **: 19:45:54.841: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1536619560293	Marionette	INFO	Listening on port 43113
+1536619560395	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536619560447	Marionette	DEBUG	[2147483649] Frame script loaded
+1536619560448	Marionette	DEBUG	[2147483649] Frame script registered
+1536619560463	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536619562624	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536619567942	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://g1.globo.com/
+1536619574933	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1536619574937	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483659
+1536619577051	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483660
+1536619577768	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483668
+1536619577772	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483670
+1536619578990	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483671
+1536619582187	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://g1.globo.com/
+1536619602826	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536619721450	Marionette	INFO	Stopped listening on port 43113
+1536619736428	geckodriver	INFO	geckodriver 0.21.0
+1536619736435	geckodriver	INFO	Listening on 127.0.0.1:57497
+1536619737440	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.X1XFzLfqP7gf"
+
+(firefox:30106): Gtk-WARNING **: 19:48:59.496: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:30106): Gtk-WARNING **: 19:48:59.496: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1536619744719	Marionette	INFO	Listening on port 40365
+1536619744760	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536619744825	Marionette	DEBUG	[2147483649] Frame script loaded
+1536619744826	Marionette	DEBUG	[2147483649] Frame script registered
+1536619744841	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536619749619	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536619755370	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://g1.globo.com/
+1536619755996	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1536619755999	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483659
+1536619756616	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+1536619756618	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1536619762984	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483660
+1536619767356	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://g1.globo.com/
+[Parent 30106, Gecko_IOThread] WARNING: pipe error (71): Conexão fechada pela outra ponta: file /build/firefox-QQUBmW/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536621025741	Marionette	INFO	Stopped listening on port 40365
+1536621029506	geckodriver	INFO	geckodriver 0.21.0
+1536621029515	geckodriver	INFO	Listening on 127.0.0.1:47107
+1536621029667	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gJuhDYOEAaXG"
+
+(firefox:30964): Gtk-WARNING **: 20:10:34.423: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:30964): Gtk-WARNING **: 20:10:34.424: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1536621040343	Marionette	INFO	Listening on port 36965
+1536621040630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536621040690	Marionette	DEBUG	[2147483649] Frame script loaded
+1536621040694	Marionette	DEBUG	[2147483649] Frame script registered
+1536621040715	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536621044832	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536621054149	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1536621054188	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483659
+1536621054310	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://g1.globo.com/
+1536621057623	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+1536621057664	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1536621058516	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483660
+1536621059522	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1536621060604	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483667
+1536621064648	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://g1.globo.com/

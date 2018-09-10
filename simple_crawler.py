@@ -9,7 +9,7 @@ Apresenta os recursos basicos do BeautifulSoup
 
 # requisicao basica
 site= requests.get("http://example.com")
-#retorno do coidgo 200, indicando que o conteúdo foi coletado.
+#retorno do codigo 200, indicando que o conteúdo foi coletado.
 print("Status:",site.status_code)
 print("Encoding:",site.encoding)
 print("Cabeçalho",site.headers)
