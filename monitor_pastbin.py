@@ -20,7 +20,7 @@ navegador.get(site_alvo)
 #Retorna uma lista de elementos de acordo com o nome da classe.
 codigos = navegador.find_element_by_class_name('maintable')
 html=codigos.get_attribute('innerHTML')
-parser=BeautifulSoup(html,"lxml")
+parser=BeautifulSoup(html,"html.parser")
 lista_codigos=parser.findAll("tr")
 lista_codigos.pop()
 for codigo in lista_codigos:

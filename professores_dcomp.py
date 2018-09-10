@@ -22,7 +22,7 @@ site= requests.get("http://dcomp.ufsj.edu.br/pessoas/professores/")
 #extrai o html
 html=site.text
 #parser utilizando para varrer o html
-parser=BeautifulSoup(html,"lxml")
+parser=BeautifulSoup(html,"html.parser")
 
 # a classe que contém os dados dos professores
 #Utilize o inspecionar elementos em um navegador web a sua escolha

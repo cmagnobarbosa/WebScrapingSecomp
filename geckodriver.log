@@ -1,0 +1,209 @@
+1535562524247	geckodriver	INFO	geckodriver 0.21.0
+1535562524279	geckodriver	INFO	Listening on 127.0.0.1:48551
+1535562525264	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6luEJqSdw54Q"
+*** You are running in headless mode.
+1535562534683	Marionette	INFO	Listening on port 34583
+1535562534694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://legendas.tv/cache_js/js-combined.js, line 2: unreachable code after return statement
+1535562719946	geckodriver	INFO	geckodriver 0.21.0
+1535562720008	geckodriver	INFO	Listening on 127.0.0.1:53389
+1535562720952	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Sg7EkX0q47Q3"
+*** You are running in headless mode.
+1535562728530	Marionette	INFO	Listening on port 37043
+1535562728574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://legendas.tv/cache_js/js-combined.js, line 2: unreachable code after return statement
+1535562759705	geckodriver	INFO	geckodriver 0.21.0
+1535562759713	geckodriver	INFO	Listening on 127.0.0.1:51339
+1535562760721	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.l5QPtzY8hAIW"
+*** You are running in headless mode.
+1535562767197	Marionette	INFO	Listening on port 35301
+1535562767249	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://legendas.tv/cache_js/js-combined.js, line 2: unreachable code after return statement
+1535562803368	geckodriver	INFO	geckodriver 0.21.0
+1535562803374	geckodriver	INFO	Listening on 127.0.0.1:43615
+1535562804376	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fQTnSRSDKCe1"
+*** You are running in headless mode.
+1535562810690	Marionette	INFO	Listening on port 37823
+1535562810694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://legendas.tv/cache_js/js-combined.js, line 2: unreachable code after return statement
+1535588947265	geckodriver	INFO	geckodriver 0.21.0
+1535588947332	geckodriver	INFO	Listening on 127.0.0.1:52657
+1535588947373	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mfgcgeriasmo"
+*** You are running in headless mode.
+1535588956579	Marionette	INFO	Listening on port 44207
+1535588956617	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://legendas.tv/cache_js/js-combined.js, line 2: unreachable code after return statement
+1535588979387	geckodriver	INFO	geckodriver 0.21.0
+1535588979392	geckodriver	INFO	Listening on 127.0.0.1:49661
+1535588980399	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DK4rITLjXdS8"
+*** You are running in headless mode.
+1535588986697	Marionette	INFO	Listening on port 36949
+1535588986721	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535588996209	geckodriver	INFO	geckodriver 0.21.0
+1535588996215	geckodriver	INFO	Listening on 127.0.0.1:35225
+1535588997219	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nFbZT4I3wPJt"
+*** You are running in headless mode.
+1535589004081	Marionette	INFO	Listening on port 33411
+1535589004140	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-58643-34, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-58643-34, line 69: unreachable code after return statement
+1535589071132	geckodriver	INFO	geckodriver 0.21.0
+1535589071138	geckodriver	INFO	Listening on 127.0.0.1:54367
+1535589072147	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KOLjGbcus9X0"
+*** You are running in headless mode.
+1535589078358	Marionette	INFO	Listening on port 33601
+1535589078382	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-58643-34, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-58643-34, line 69: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535589260120	geckodriver	INFO	geckodriver 0.21.0
+1535589260124	geckodriver	INFO	Listening on 127.0.0.1:56907
+1535589261133	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hS4yRRKVInTv"
+*** You are running in headless mode.
+1535589266987	Marionette	INFO	Listening on port 42553
+1535589267055	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-58643-34, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-58643-34, line 69: unreachable code after return statement
+1535589312504	geckodriver	INFO	geckodriver 0.21.0
+1535589312509	geckodriver	INFO	Listening on 127.0.0.1:45865
+1535589313514	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kCqnkveOcCwz"
+*** You are running in headless mode.
+1535589319762	Marionette	INFO	Listening on port 45073
+1535589319835	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-58643-34, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-58643-34, line 69: unreachable code after return statement
+1535589371917	geckodriver	INFO	geckodriver 0.21.0
+1535589371923	geckodriver	INFO	Listening on 127.0.0.1:41841
+1535589372931	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pFUicJ0GC1MS"
+*** You are running in headless mode.
+1535589379863	Marionette	INFO	Listening on port 43087
+1535589379954	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-58643-34, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-58643-34, line 69: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535589511079	geckodriver	INFO	geckodriver 0.21.0
+1535589511084	geckodriver	INFO	Listening on 127.0.0.1:40083
+1535589512092	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZR0ZsTY8JZ0o"
+*** You are running in headless mode.
+1535589518454	Marionette	INFO	Listening on port 36383
+1535589518517	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-58643-34, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-58643-34, line 69: unreachable code after return statement
+1535589596562	geckodriver	INFO	geckodriver 0.21.0
+1535589596567	geckodriver	INFO	Listening on 127.0.0.1:58735
+1535589597577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ccg1OEtGf3Py"
+*** You are running in headless mode.
+1535589603762	Marionette	INFO	Listening on port 42955
+1535589603798	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-58643-34, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-58643-34, line 69: unreachable code after return statement
+1535589697285	geckodriver	INFO	geckodriver 0.21.0
+1535589697290	geckodriver	INFO	Listening on 127.0.0.1:45155
+1535589697300	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6fyS8v8fdVas"
+*** You are running in headless mode.
+1535589703900	Marionette	INFO	Listening on port 43933
+1535589703918	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-58643-34, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-58643-34, line 69: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535589842613	geckodriver	INFO	geckodriver 0.21.0
+1535589842619	geckodriver	INFO	Listening on 127.0.0.1:49349
+1535589843622	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2beuVv9Rp8oU"
+*** You are running in headless mode.
+1535589855890	geckodriver	INFO	geckodriver 0.21.0
+1535589855895	geckodriver	INFO	Listening on 127.0.0.1:34807
+1535589856902	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CFw2pikFAijH"
+*** You are running in headless mode.
+1535589863234	Marionette	INFO	Listening on port 37377
+1535589863322	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-58643-34, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-58643-34, line 69: unreachable code after return statement
+1535590066036	geckodriver	INFO	geckodriver 0.21.0
+1535590066041	geckodriver	INFO	Listening on 127.0.0.1:43459
+1535590067048	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Se2Y4jRDh61O"
+*** You are running in headless mode.
+1535590069068	geckodriver	INFO	geckodriver 0.21.0
+1535590069073	geckodriver	INFO	Listening on 127.0.0.1:58573
+1535590070080	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SSX4W2MGrekM"
+*** You are running in headless mode.
+1535590075968	Marionette	INFO	Listening on port 35235
+1535590076007	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-58643-34, line 71: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-58643-34, line 71: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535590127833	geckodriver	INFO	geckodriver 0.21.0
+1535590127838	geckodriver	INFO	Listening on 127.0.0.1:37997
+1535590128845	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tQSeg1u1BuNR"
+*** You are running in headless mode.
+1535590134868	Marionette	INFO	Listening on port 36475
+1535590134964	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-58643-34, line 71: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-58643-34, line 71: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535590269664	geckodriver	INFO	geckodriver 0.21.0
+1535590269672	geckodriver	INFO	Listening on 127.0.0.1:50779
+1535590270675	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BUzqDuQleJBA"
+*** You are running in headless mode.
+1535590276727	Marionette	INFO	Listening on port 42761
+1535590276793	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-58643-34, line 71: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-58643-34, line 71: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535590351864	geckodriver	INFO	geckodriver 0.21.0
+1535590351869	geckodriver	INFO	Listening on 127.0.0.1:41861
+1535590352878	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Fv5xg7GVrq80"
+*** You are running in headless mode.
+1535590358501	Marionette	INFO	Listening on port 39745
+1535590358595	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-58643-34, line 71: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-58643-34, line 71: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535590757869	geckodriver	INFO	geckodriver 0.21.0
+1535590757875	geckodriver	INFO	Listening on 127.0.0.1:40931
+1535590758880	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XVvVG26QILS2"
+*** You are running in headless mode.
+1535590765352	Marionette	INFO	Listening on port 41225
+1535590765406	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-58643-34, line 71: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-58643-34, line 71: unreachable code after return statement
+1535590785930	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1535590785944	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9117, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9059, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9388, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8560, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9333, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Sandbox: Unexpected EOF, op 0 flags 00 path /usr/share/locale/pt_BR/LC_MESSAGES/libc.mo
+[Child 8504, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8887, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Sandbox: Unexpected EOF, op 0 flags 00 path /usr/share/locale/pt_BR/LC_MESSAGES/libc.mo
+[Child 8836, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 23430, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 23372, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 22652, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 22601, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 21816, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22339, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 21758, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536102787622	geckodriver	INFO	geckodriver 0.21.0
+1536102787949	geckodriver	INFO	Listening on 127.0.0.1:60751
+1536102788673	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lsv7fTCWga1R"
+*** You are running in headless mode.
+1536102801502	Marionette	INFO	Listening on port 40205
+1536102801513	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://legendas.tv/cache_js/js-combined.js, line 2: unreachable code after return statement

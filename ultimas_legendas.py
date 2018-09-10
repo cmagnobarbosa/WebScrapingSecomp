@@ -35,7 +35,7 @@ destaques = navegador.find_elements_by_class_name('destaque')
 for destaque in destaques:
     #extrai o html
     html= destaque.get_attribute('innerHTML')
-    parser=BeautifulSoup(html,"lxml")
+    parser=BeautifulSoup(html,"html.parser")
     print("Legenda:",parser.find("a").text)
     print("Detalhes:",parser.find("p",{"class":"data"}).text)
     print("-----------")
