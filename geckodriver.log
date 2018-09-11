@@ -582,3 +582,74 @@ Sandbox: Unexpected EOF, op 0 flags 00 path /usr/share/locale/pt_BR/LC_MESSAGES/
 1536633735077	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
 1536633735377	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.mercadolivre.com.br/
 1536633740162	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.mercadolivre.com.br/
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8899, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-QQUBmW/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+Sandbox: Unexpected EOF, op 0 flags 00 path /usr/share/locale/pt_BR/LC_MESSAGES/libc.mo
+[Child 8964, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-QQUBmW/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8016, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-QQUBmW/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Sandbox: Unexpected EOF, op 0 flags 00 path /usr/share/locale/pt_BR/LC_MESSAGES/libc.mo
+[Child 6084, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-QQUBmW/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536663486976	geckodriver	INFO	geckodriver 0.21.0
+1536663488156	geckodriver	INFO	Listening on 127.0.0.1:44849
+1536663488390	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.byXiyYA4djED"
+*** You are running in headless mode.
+1536663502209	Marionette	INFO	Listening on port 43091
+1536663502402	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536663502450	Marionette	DEBUG	[2147483649] Frame script loaded
+1536663502534	Marionette	DEBUG	[2147483649] Frame script registered
+1536663502568	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536663504944	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536663505889	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.mercadolivre.com.br/
+1536663512665	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.mercadolivre.com.br/
+1536663962341	geckodriver	INFO	geckodriver 0.21.0
+1536663962347	geckodriver	INFO	Listening on 127.0.0.1:39585
+1536663963354	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ilW5DA18ORkA"
+*** You are running in headless mode.
+1536663970689	Marionette	INFO	Listening on port 42473
+1536663970772	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536663970822	Marionette	DEBUG	[2147483649] Frame script loaded
+1536663970823	Marionette	DEBUG	[2147483649] Frame script registered
+1536663970838	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536663973184	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536663982180	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1536663982206	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483659
+1536663982208	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483661
+1536663982262	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1536663982355	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://g1.globo.com/
+1536663989590	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483662
+1536663989647	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483667
+1536663989648	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483660
+1536663995248	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://g1.globo.com/
+1536663999929	Marionette	INFO	Stopped listening on port 42473
+[Parent 4494, Gecko_IOThread] WARNING: pipe error (94): Conexão fechada pela outra ponta: file /build/firefox-QQUBmW/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536664062916	geckodriver	INFO	geckodriver 0.21.0
+1536664062924	geckodriver	INFO	Listening on 127.0.0.1:54681
+1536664063927	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XGbqSmw6AA4n"
+
+(firefox:4774): Gtk-WARNING **: 08:07:45.753: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4774): Gtk-WARNING **: 08:07:45.753: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1536664070650	Marionette	INFO	Listening on port 34039
+1536664070760	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536664070830	Marionette	DEBUG	[2147483649] Frame script loaded
+1536664070831	Marionette	DEBUG	[2147483649] Frame script registered
+1536664070845	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536664073135	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536664076959	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://g1.globo.com/
+1536664084104	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1536664084107	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483659
+1536664084170	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+1536664084178	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1536664086158	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483660
+1536664087188	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1536664087189	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1536664090323	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://g1.globo.com/
+1536664103978	Marionette	INFO	Stopped listening on port 34039
+[Child 4858, Chrome_ChildThread] WARNING: pipe error: Pipe quebrado: file /build/firefox-QQUBmW/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 4858, Chrome_ChildThread] WARNING: pipe error: Pipe quebrado: file /build/firefox-QQUBmW/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 4858, Chrome_ChildThread] WARNING: pipe error: Pipe quebrado: file /build/firefox-QQUBmW/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 4858, Chrome_ChildThread] WARNING: pipe error: Pipe quebrado: file /build/firefox-QQUBmW/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 4858, Chrome_ChildThread] WARNING: pipe error (3): Conexão fechada pela outra ponta: file /build/firefox-QQUBmW/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
